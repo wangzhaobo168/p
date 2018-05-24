@@ -5,6 +5,7 @@
     "license": "MIT",
     "keywords": ["php print_r"],
     "version": "1.0.0",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "wangzhaobo",
