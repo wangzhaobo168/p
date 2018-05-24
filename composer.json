@@ -1,0 +1,21 @@
+{
+
+    "name": "wangzhaobo/p",
+    "description": "php print_r",
+    "license": "MIT",
+    "keywords": ["php print_r"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "wangzhaobo",
+            "email": "963087326@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": ["p.php"]
+    }
+
+}
