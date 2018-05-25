@@ -4,7 +4,7 @@
     "description": "php print_r",
     "license": "MIT",
     "keywords": ["php print_r"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum-stability": "dev",
     "authors": [
         {
